@@ -1,1 +1,1 @@
-# online-quiz-using-HTML-CSS-JS
+# Online-Quiz-using-HTML-CSS-JS
